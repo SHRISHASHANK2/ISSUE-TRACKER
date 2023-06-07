@@ -16,3 +16,6 @@ To install and run the application locally, follow these steps:
  - Start the server:
  
     `npm start`
+    
+    Hosted URL:
+    https://issue-teacker.onrender.com/
